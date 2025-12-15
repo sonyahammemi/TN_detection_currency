@@ -1,0 +1,16 @@
+train: /content/drive/MyDrive/IOT_project/dataset/train/images
+val: /content/drive/MyDrive/IOT_project/dataset/val/images
+nc: 12
+names:
+- 1 dinar
+- 10 dinars
+- 10 millimes
+- 100 millimes
+- 2 dinars
+- 20 dinars
+- 20 millimes
+- 200 millimes
+- 5 dinars
+- 50 dinars
+- 50 millimes
+- 500 millimes

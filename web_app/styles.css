@@ -1,0 +1,37 @@
+/* Background */
+.stApp {
+    background: linear-gradient(120deg, #f6f9fc, #eef2f7);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Header */
+.header {
+    background: linear-gradient(90deg, #2563eb, #1e40af);
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+/* Cards */
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    text-align: center;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(90deg, #2563eb, #1e40af);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background: linear-gradient(90deg, #1e40af, #1e3a8a);
+}
